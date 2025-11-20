@@ -1,1 +1,1 @@
-# CSC1060 Group Project
+# CSC1060_Group_Project README
