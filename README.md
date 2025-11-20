@@ -1,1 +1,1 @@
-# Computer-Science-I-Flashcard-Project
+# CSC1060 Group Project
